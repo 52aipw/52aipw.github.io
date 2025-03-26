@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 破局</title>
+    <link>https://broken.github.io/tags/</link>
+    <description>Recent content in Tags on 破局</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 26 Mar 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="https://broken.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DrmKey</title>
+      <link>https://broken.github.io/tags/drmkey/</link>
+      <pubDate>Wed, 26 Mar 2025 10:00:00 +0800</pubDate>
+      <guid>https://broken.github.io/tags/drmkey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>M3u8</title>
+      <link>https://broken.github.io/tags/m3u8/</link>
+      <pubDate>Wed, 26 Mar 2025 10:00:00 +0800</pubDate>
+      <guid>https://broken.github.io/tags/m3u8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>视频Key解密</title>
+      <link>https://broken.github.io/tags/%E8%A7%86%E9%A2%91key%E8%A7%A3%E5%AF%86/</link>
+      <pubDate>Wed, 26 Mar 2025 10:00:00 +0800</pubDate>
+      <guid>https://broken.github.io/tags/%E8%A7%86%E9%A2%91key%E8%A7%A3%E5%AF%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>优酷</title>
+      <link>https://broken.github.io/tags/%E4%BC%98%E9%85%B7/</link>
+      <pubDate>Wed, 26 Mar 2025 10:00:00 +0800</pubDate>
+      <guid>https://broken.github.io/tags/%E4%BC%98%E9%85%B7/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
